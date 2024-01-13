@@ -47,3 +47,5 @@ class FiguraGeometryczna:
         pass
 class Kwadrat(FiguraGeometryczna):
     pass
+print("ciastko")
+
