@@ -48,4 +48,4 @@ class FiguraGeometryczna:
 class Kwadrat(FiguraGeometryczna):
     pass
 print("ciastko")
-
+print ("czekolada")
